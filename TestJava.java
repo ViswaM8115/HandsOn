@@ -1,6 +1,6 @@
 public class TestJava{
 	public static void main(String argv[]){
-		String i = null;
+		int i = 12;
 		System.out.println("Hello World2");
 	}
 }
