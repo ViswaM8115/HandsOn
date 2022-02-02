@@ -1,6 +1,6 @@
 public class TestJava{
 	public static void main(String argv[]){
-		boolean temp = false;
+		int temp = 1;
 		System.out.println("Hello World2");
 	}
 }
